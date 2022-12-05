@@ -47,7 +47,7 @@ Etoricoxib = antiinflamasi (menghambat penyebab nyeri dan radang) 19
 Esomeprazole = proton pump inhibitor (mengurangi produksi asam lambung) 22
 Ergotamine = ergot alkaloid. (menyempitkan pembuluh darah di area otak yang menyebabkan nyeri) 31
 Ephedrin = simpatomimetik (menyempitkan pembuluh darah di hidung)
-Eperisone = muscle relaxant (melemaskan otot)
+Eperisone = muscle relaxant (melemaskan otot) 33
 Fenofibrate = fibrat (anti kolesterol) 32
 Fexofenadine = antihistamin (mengurangi penyebab alergi) 7
 Fluconazole = antifungi (anti jamur) 15
@@ -71,7 +71,7 @@ Glucosamine = anti Muskuloskeletal (anti nyeri sendi)
 Hydroquinone = antioksidan (anti penuaan) 13
 Hyoscine = antikolinergik (mengatasi luka di lambung) 12
 Hydrochlorothiazide = loop diuretik (membuang garam berlebih) 20
-Hyoscyamine = anticholinergics (mengurangi cairan dalam tubuh)
+Hyoscyamine = anticholinergics (mengurangi cairan dalam tubuh) 36
 Hydrocortisone = steroid (mengurangi peradangan) 8
 Homochlorcyclizine dihydrochloride = antihistamin (mengurangi penyebab alergi) 7
 Heparin  = antikoagulan (menghambat penggumpalan darah) 14
@@ -79,10 +79,10 @@ Human Chorionic Gonadotropin = preparat hormon (mengatasi kesuburan wanita)
 Haloperidol = antipsikotik ( mempengaruhi jumlah dopamin) 2
 Isradipine = calcium channel blocker (melemaskan otot jantung) 10
 Isosorbide dinitrate = senyawa nitrat (mengobati gejala serangan jantung) 30
-Indinavir = ARV (antikhusus HIV) 31
+Indinavir = ARV (Obat khusus HIV) 31
 Itraconazole = antifungi (anti jamur) 15
 Ibuprofen = anti-innflamasi non steroid (mengurangi hormon penyebab nyeri) 15
-Isotretinoin = retinoid (mengurangi produksi minyak di kulit)
+Isotretinoin = retinoid (mengurangi produksi minyak di kulit) 34
 Irbesartan = antihipertensi ( melebarkan pembuluh darah) 17
 Indomethacin = anti-innflamasi non steroid (mengurangi hormon penyebab nyeri) 15
 Isoxsuprine = vasodilator (melebarkan pembuluh darah) 6
@@ -108,13 +108,13 @@ Metil salisilat = agen rubefacient (Meningkatkan sirkulasi darah pada kulit)
 Metildopa = antihipertensi ( melebarkan pembuluh darah) 17
 Metronidazole = antibiotik sefalosporin (melawan bakteri dalam tubuh) 4
 Montelukast = inhibitor leukotrien (pereda alergi karena alergen terhirup)
-Nimustine = antineoplastik (anti kanker)
+Nimustine = antineoplastik (anti kanker) 38
 Norepinephrine = antihipotensi (mengobati tekanan darah rendah)
 Norethisterone = Progesteron sintetis (mencegah kehamilan)
 Nizatidine = antikolinergik (mengatasi luka di lambung) 12
 Nateglinide = sulfonilurea (anti diabetes melitus tipe 2) 11
 Naproxen = antiinflamasi (menghambat penyebab nyeri dan radang) 19
-Nilotinib = Penghambat Kinase (Mengobati kanker darah/leukimia)
+Nilotinib = Penghambat Kinase (Mengobati kanker darah/leukimia) 36
 Nitrazepam = benzodiazepine (mengobati gangguan kecemasan) 16
 Nimorazole = antibiotik golongan makrolida (anti infeksi oleh bakteri) 26
 Nifuroxazide = antibiotik sefalosporin (melawan bakteri dalam tubuh) 4
@@ -137,7 +137,7 @@ Pseudoephedrine = dekongestan (menyusutkan pembuluh darah di saluran hidung) 25
 Propofol = anestesi (bius) 27
 Prochlorperazine = antipsikotik ( mempengaruhi jumlah dopamin) 2
 Pregabalin = antiepilepsi (anti kejang) 28
-Praziquantel = antielmentik (anti cacing)
+Praziquantel = antielmentik (anti cacing) 37
 Potassium = elektrolit (pengganti ion kalium dalam tubuh)
 Phenytoin = antiepilepsi (anti kejang) 28
 Phenylbutazone = antinyeri (mengurangi produksi zat yang menyebabkan rasa nyeri dan bengkak) 29
@@ -146,7 +146,7 @@ Parasetamol = analgesik (Meningkatkan ambang rasa nyeri) 30
 Risperidone = antipsikotik ( mempengaruhi jumlah dopamin) 2
 Riboflavin = suplemen (meningkatkan zat tertentu dalam tubuh) 23
 Ranolazine = senyawa nitrat (mengobati gejala serangan jantung) 30
-Rifabutin = ARV (antivirus khusus HIV) 31
+Rifabutin = ARV (Obat khusus HIV) 31
 Ropinirole = prekursor dopamin (obat parkinson) 24
 Rifampicin = antibiotik penisilin (penghambat sel bakteri) 3
 Ranitidin = antihistamin (mengurangi penyebab alergi) 7
@@ -168,7 +168,7 @@ Squalene = suplemen (meningkatkan zat tertentu dalam tubuh) 23
 Simvastatin = fibrat (anti kolesterol)32
 Setraline = antidepresan Selective Serotonin Reuptake Inhibitor (Mengurangi gangguan psikologis) 9
 Satranidazole = antiparasit 21
-Tamoxifen = antineoplastik (anti kanker)
+Tamoxifen = antineoplastik (anti kanker) 38
 Temazepam = benzodiazepine (mengobati gangguan kecemasan) 16
 Teofilin = Bronkodilator (Anti TBC) 33
 Terbutaline = Bronkodilator (Anti TBC) 33
@@ -178,27 +178,26 @@ Tobramycin = antibiotik golongan aminoglikosida (melawan pertumbuhan bakteri)
 Triamcinolone = kortikosteroid (mencegah pelepasan senyawa yang mengakibatkan radang) 34
 Trimethoprim = antibiotik sefalosporin (melawan bakteri dalam tubuh) 4
 Tripsin = antikolinergik (mengatasi luka di lambung) 12
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Triprolidine = antihistamin (mengurangi penyebab alergi) 7
+Thiamphenicol = antibiotik golongan makrolida (anti infeksi oleh bakteri) 26
+Terazosin = ARV (Obat khusus HIV) 31
+Terbinafine = antifungi (anti jamur) 15
+Tetracycline = antibiotik golongan makrolida (anti infeksi oleh bakteri) 26
+Tiabendazole = antielmentik (anti cacing) 37
+Tizanidine = muscle relaxant (melemaskan otot) 33
+Tretinoin = retinoid (mengurangi produksi minyak di kulit) 34
+Trihexyphenidyl = muscle relaxant (melemaskan otot) 33
+Terazosin = alpha-adrenergic blocker (melemaskan pembuluh darah vena dan arteri )35
+Tamsulosin = alpha-adrenergic blocker (melemaskan pembuluh darah vena dan arteri )35
+Vancomycin = antibiotik sefalosporin (melawan bakteri dalam tubuh) 4
+Vildagliptin = sulfonilurea (anti diabetes melitus tipe 2) 11
+Verapamil = antihipertensi ( melebarkan pembuluh darah) 17
+Valsartan = antihipertensi ( melebarkan pembuluh darah) 17
+Vincristine = Penghambat Kinase (Mengobati kanker darah/leukimia) 36
+Vasopressin = anticholinergics (mengurangi cairan dalam tubuh) 36
+Valacyclovir = antiparasit 21
+Warfarin = antikoagulan (menghambat penggumpalan darah) 14
+White petrolatum = retinoid (mengurangi produksi minyak di kulit) 34
 
 
 
